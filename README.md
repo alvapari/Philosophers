@@ -15,11 +15,11 @@ Este proyecto trata sobre **hilos, concurrencia y acceso ordenado de los hilos a
 
 ### Documentación:
 Si quieres ver la **documentación completa** del proyecto, puedes ver estos apuntes: <br> 
-https://42guideprojects.notion.site/Philosophers-1475f759901f812388b4d73c8d3e1332
+[Documentación](https://42guideprojects.notion.site/Philosophers-1475f759901f812388b4d73c8d3e1332)
 
 <br>
 
 ### Requerimientos:
 Si quieres leer los requerimientos del proyecto, puedes encontrarlos aquí: <br> 
-[es.subject.pdf](https://github.com/user-attachments/files/17885532/es.subject.pdf)
+[Requerimientos](https://github.com/user-attachments/files/17885532/es.subject.pdf)
 
